@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f97634d8467e4a3688d4ce4545350981, type: 3}
+  m_Name: PlayerConfig
+  m_EditorClassIdentifier: 
+  PlayerPrefab: {fileID: 114501534150895978, guid: 81fa782bd4dd4419981ad3048ae8838e,
+    type: 2}
+  JumpForce: 1.6
+  HorizontalDragFactor: 0.008
+  SpeedZ: 2.5
+  JumpDuration: 0.5

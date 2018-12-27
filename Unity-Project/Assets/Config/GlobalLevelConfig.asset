@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 136f3512443940c4a2d0ebf79da94172, type: 3}
+  m_Name: GlobalLevelConfig
+  m_EditorClassIdentifier: 
+  TestLevelPrefab: {fileID: 114116618586333308, guid: 6170bc7d4f4bb4976b3072e8fcf15f61,
+    type: 2}
+  PlatformPrefab: {fileID: 114975941896493908, guid: 381c6f4ee943d49189227063518ae9db,
+    type: 2}
+  FlagPrefab: {fileID: 1310504950960288, guid: 12af09ba4cfa24a778748e4f871845f7, type: 2}
+  BoostResizePrefab: {fileID: 1649155624554712, guid: 154f6163cc2564e4ab2d77a90cefc270,
+    type: 2}
+  BoostSlowMoPrefab: {fileID: 1327646369679202, guid: 53523880b155a415a98f4b7766c77ab9,
+    type: 2}
+  BoostAlignPath: {fileID: 1794831195678500, guid: 7cea661cbce39486782d561c422f3ec9,
+    type: 2}
+  PlatformSpacing: 2.5
+  PlatformMaxScale: 2.3
+  PlatformMinScale: 1
+  MaxVisiblePlatforms: 30
+  PlatformResizeColors:
+  - {r: 0.047481313, g: 0.7476679, b: 0.9150943, a: 1}
+  - {r: 0.9245283, g: 0.16135636, b: 0.36832982, a: 0}
+  - {r: 0.15619439, g: 0.8490566, b: 0.30866852, a: 0}
+  - {r: 0.74929285, g: 0.12415449, b: 0.8490566, a: 0}
+  - {r: 0.8962264, g: 0.8023906, b: 0.2494215, a: 0}
+  BoostSlowMoJumpDuration: 1.5
+  MaxSlowmotionHits: 4
+  AlignBoostNumPlatforms: 5

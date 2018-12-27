@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58649b72567c477fa0b727a26a85b048, type: 3}
+  m_Name: UiConfig
+  m_EditorClassIdentifier: 
+  ScorePrefab: {fileID: 114586432861536334, guid: 2f70d7a5b98da4b6885eeb9e44f26ddb,
+    type: 2}
+  StartScreenPrefab: {fileID: 114374019208976762, guid: 86d5d5e5d81ac4e73820cd738e4e9904,
+    type: 2}
+  GameOverScreenPrefab: {fileID: 114273182917615228, guid: e43861c4f7b4c4f46b0533d0f1fc678a,
+    type: 2}
+  LevelCompleteScreenPrefab: {fileID: 114446906561352030, guid: 149187e3c9f774099a5309f904ab5797,
+    type: 2}

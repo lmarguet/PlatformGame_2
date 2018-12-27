@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 12c13971e3476477da6f5eb5dbe5770e, type: 3}
+  m_Name: ConfigInstaller
+  m_EditorClassIdentifier: 
+  PlayerConfig: {fileID: 11400000, guid: d2170c05e54f44f6abc535af9c522875, type: 2}
+  UiConfig: {fileID: 11400000, guid: 8be3efa155cff48c1a487fc0c1863b95, type: 2}
+  MiscConfig: {fileID: 11400000, guid: 734d73ab65c844fdebed341b88d17b46, type: 2}
+  GlobalLevelsConfig: {fileID: 11400000, guid: 7b32361ceac5548ad8bd0e3b25cfb688, type: 2}
+  EffectsConfig: {fileID: 11400000, guid: 7e85fdd8e4a8046e39a687a827c3b5fd, type: 2}
+  LevelsConfig: {fileID: 11400000, guid: fb2c2a0850b6a454ab675a63722f730e, type: 2}
